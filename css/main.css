@@ -1,0 +1,21 @@
+.navbar-default {
+    background-color: hsl(205, 5%, 83%);
+    margin: 0;
+}
+
+img.owls {
+	height: 200px;
+	width: 200px;
+}
+
+.btn-default {
+	background-color: red;
+	border-collapse: black;
+	color: aquamarine;
+}
+
+.btn-primary {
+	background-color: aquamarine;
+	border-color: red;
+	color: black;
+}
